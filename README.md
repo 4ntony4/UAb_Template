@@ -7,7 +7,7 @@
 [PT] Este projeto foi realizado no âmbito da Unidade Curricular de **NAME** da Licenciatura em Engenharia Informática da Universidade Aberta no ano letivo de 20XX-XX.
 
 ## Compile
-	g++ -Wall -o out/ciphers src/*.cpp
+	g++ -Wall -o out/nameHere src/*.cpp
 	
 ## <a href="https://replit.com/"><img src="img/replit_logo.svg" alt="replit_logo" width="35"></a> Replit
 Run it on Replit [here](https://replit.com/@DiogoAntao/UAbprojectName).
